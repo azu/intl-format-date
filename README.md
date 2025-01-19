@@ -1,9 +1,13 @@
 # intl-format-date
 
+format date with `Intl.DateTimeFormat` and `formatToParts` method
+
+----
+
 > [!WARNING]
 > THIS IS EXPERIMENTAL PROJECT
 > You can use [zapier/intl-dateformat: Format a date using Intl.DateTimeFormat goodness.](https://github.com/zapier/intl-dateformat) instead of this project for actual use.
-format date with `Intl.DateTimeFormat` and `formatToParts` method
+
 
 ## Features
 
